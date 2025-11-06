@@ -54,32 +54,34 @@ The **HAM10000** dataset (“Human Against Machine with 10,000 training images�
 
 ## ⚙️ Project Structure
 
+
 📂 skin-cancer-detection/
-├── data/
-│ ├── train/
-│ └── val/
-├── models/
-│ └── efficientnetb0_skin_cancer.h5
-├── notebooks/
-│ └── skin_cancer_training.ipynb
-├── utils/
-│ └── gradcam.py
-├── README.md
-└── requirements.txt
+- ├── data/
+- │ ├── train/
+- │ └── val/
+- ├── models/
+- │ └── efficientnetb0_skin_cancer.h5
+- ├── notebooks/
+- │ └── skin_cancer_training.ipynb
+- ├── utils/
+- │ └── gradcam.py
+- ├── README.md
+- └── requirements.txt
+
 
 ---
 
 ## 🧾 Requirements
 
-tensorflow>=2.9
-tensorflow-addons
-numpy
-pandas
-opencv-python
-matplotlib
-seaborn
-scikit-learn
-efficientnet
+- tensorflow>=2.9
+- tensorflow-addons
+- numpy
+- pandas
+- opencv-python
+- matplotlib
+- seaborn
+- scikit-learn
+- efficientnet
 
 
 
