@@ -109,3 +109,20 @@ The **HAM10000** dataset (“Human Against Machine with 10,000 training images�
           nv       0.96      0.59      0.73
         vasc       0.20      0.97      0.34
 
+```
+---
+
+## 🧰 Tools & Technologies
+ - Languages: Python
+ - Libraries: TensorFlow, Keras, NumPy, OpenCV, scikit-learn, Matplotlib, Seaborn
+-  Platform: Google Colab / Jupyter Notebook
+-  Version Control: Git, GitHub
+
+---
+
+## 🙌 Author
+- Man Singh
+- 📧 manoharsvnit07@gmail.com
+- 🔗 LinkedIn| GitHub
+
+ 
