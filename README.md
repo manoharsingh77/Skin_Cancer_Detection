@@ -83,5 +83,29 @@ The **HAM10000** dataset (“Human Against Machine with 10,000 training images�
 - scikit-learn
 - efficientnet
 
+---
 
+## 📈 Results
+
+
+- | Metric                  | Score |
+- | ----------------------- | ----- |
+- | **Validation Accuracy** | 58%   |
+- | **Weighted F1-score**   | 0.63  |
+- | **Macro Recall**        | 0.62  |
+- | **Macro Precision**     | 0.44  |
+
+---
+
+## 📊 Sample Confusion Matrix
+
+```bash
+              precision    recall  f1-score   support
+       akiec       0.49      0.33      0.40
+         bcc       0.59      0.52      0.56
+         bkl       0.37      0.64      0.47
+          df       0.20      0.78      0.32
+         mel       0.26      0.49      0.34
+          nv       0.96      0.59      0.73
+        vasc       0.20      0.97      0.34
 
